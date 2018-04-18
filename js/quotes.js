@@ -1,0 +1,22 @@
+var obj = {
+0:["Life isn’t about getting and having, it’s about giving and being.", "Kevin Kruse"],
+1:["Whatever the mind of man can conceive and believe, it can achieve.", "Napoleon Hill"],
+2:["Strive not to be a success, but rather to be of value.", "Albert Einstein"],
+3:["Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.", "Robert Frost"],
+4:["I attribute my success to this: I never gave or took any excuse.", "Florence Nightingale"],
+5:["You miss 100% of the shots you don’t take.", "Wayne Gretzky"],
+6:["I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.", "Michael Jordan"],
+7:["The most difficult thing is the decision to act, the rest is merely tenacity.", "Amelia Earhart"],
+8:["Every strike brings me closer to the next home run.", "Babe Ruth"],
+9:["Definiteness of purpose is the starting point of all achievement.", "W. Clement Stone"],
+10:["We must balance conspicuous consumption with conscious capitalism.", "Kevin Kruse"],
+11:["Fall seven times and stand up eight.", "Japanese Proverb"],
+12:["When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.", "Helen Keller"],
+13:["Everything has beauty, but not everyone can see.", "Confucius"],
+14:["How wonderful it is that nobody need wait a single moment before starting to improve the world.", "Anne Frank"],
+15:["When I let go of what I am, I become what I might be.", "Lao Tzu"],
+16:["Life is not measured by the number of breaths we take, but by the moments that take our breath away.", "Maya Angelou"],
+17:["Happiness is not something readymade.  It comes from your own actions.", "Dalai Lama"],
+18:["If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.", "Sheryl Sandberg"],
+19:["First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.", "Aristotle"]
+};
